@@ -13,9 +13,9 @@
 
 * ♥️ Exploring new places
 
-* ✍🏻 I write blogs on iOS development in [Medium](https://medium.com/@singh.shubham0812)
+* ✍🏻 I write blogs on iOS development in [Medium](https://medium.com/@shubham_iosdev)
 
-* 💁🏻I share Insights, Apps, and Tips on iOS development in my Instagram.
+* 💁🏻I share Insights, Apps, and Tips on iOS development in my [Instagram](https://www.instagram.com/shubham_iosdev/).
 
 
 
