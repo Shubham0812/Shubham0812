@@ -1,38 +1,33 @@
 <h1 align="center">Hi there, I'm Shubham 👋🏻</h1>
-<h3 align="center">iOS Developer · SwiftUI Specialist · Indie Maker · Content Creator</h3>
+<h3 align="center">Indie iOS Developer · Content Creator · SwiftUI Specialist</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@shubham_iosdev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://x.com/shubham_iosdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/shubham_iosdev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@shubham_iosdev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/shubham0812/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@shubham_iosdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham0812&label=Profile%20views&color=0071e3&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### About me
 
-I'm an iOS developer with **7+ years** of experience building apps for Apple platforms with **Swift** and **SwiftUI**. I've worked with SwiftUI since its earliest days, and I love building clean, scalable systems alongside interfaces that feel intuitive and well-crafted.
+I'm an **indie iOS developer** and **content creator** with **7+ years** of experience building apps for Apple platforms with **Swift** and **SwiftUI**. I've worked with SwiftUI since its earliest days, and I love building clean, scalable systems alongside interfaces that feel intuitive and well-crafted.
 
-Outside of my day-to-day work, I'm an **indie app developer** and **content creator**. I spend a lot of my time experimenting with SwiftUI — building apps, components, and animations — and sharing what I learn on YouTube and social media. I'm always exploring new tools and ideas, and looking to improve how I build and think about products.
+As an indie maker, I design and ship my own apps end to end. As a content creator, I spend a lot of my time experimenting with SwiftUI, building apps, components, and animations, and sharing what I learn on YouTube and social media. I'm always exploring new tools and ideas, and looking to improve how I build and think about products.
 
 ### 🚀 What I'm up to right now
 
 - 🧩 Building & shipping my own indie apps as a solo developer
 - 🎥 Creating SwiftUI tutorials, components & animations on [YouTube](https://www.youtube.com/@shubham_iosdev)
-- ✍🏻 Writing about iOS development on [Medium](https://medium.com/@shubham_iosdev)
+- 📱 Sharing apps, insights & tips on [X](https://x.com/shubham_iosdev) and [Instagram](https://www.instagram.com/shubham_iosdev/)
 - 🌱 Always experimenting with the latest in SwiftUI
 
 ### 📱 Featured Apps
 
 | App | What it is |
 | --- | --- |
-| 🎉 **[Who Goes](https://apps.apple.com/in/app/who-goes/id6777402559)** | A fun party app for picking who's up next — decide who goes, who's in, and who's out. |
+| 🎉 **[Who Goes](https://apps.apple.com/in/app/who-goes/id6777402559)** | A fun party app for picking who's up next: decide who goes, who's in, and who's out. |
 | 🔣 **[SF Catalog](https://apps.apple.com/us/app/sf-catalog-sf-symbols/id6759371914)** | An SF Symbols browser & prototyping app for designers and developers. |
 | 🧩 **[WordFlux: Word Puzzles](https://apps.apple.com/in/app/wordflux-word-puzzles/id6757514622)** | A word puzzle game built entirely with SwiftUI. |
 
@@ -52,10 +47,6 @@ Outside of my day-to-day work, I'm an **indie app developer** and **content crea
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham0812&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham0812&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
 ---
 
-<p align="center"><i>Building, learning, and sharing — one line of SwiftUI at a time.</i></p>
+<p align="center"><i>Building, learning, and sharing, one line of SwiftUI at a time.</i></p>
